@@ -1,6 +1,8 @@
 # osu-to-FNF
 osu! beatmap to Friday Night Funkin'
 
+This cool thing makes your osu beatmap into 100% playable map for Friday Night Funkin' FNF
+
 ![](https://i.ibb.co/8YGnXgN/explorer-h5b-Y6-Xo-Hj-Q.png)
 
 ## How to

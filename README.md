@@ -12,7 +12,7 @@ osu! beatmap to Friday Night Funkin'
 3- Write a name: name must exist in FNF FreePlay mode (this replaces existing song and patterns)
 
 4- Choose if you want osu! beatmap custom hitsounds (If map doesn't have any, don't check this)
-  - Set volume of hitsounds (Recommended: 40-45dB)
+  - Set volume of hitsounds (Recommended: 80-95%)
 
 5- Player alternation: 
   - `Use Color Combos for alt players`: alternates every combo changes
@@ -26,6 +26,8 @@ osu! beatmap to Friday Night Funkin'
 8- Click `Convert` and wait, if you checked "Use Custom Hitsounds", the process will take more time
 
 9- Test it with `Launch FNF`
+
+this video shows how to do [thissss video here click here please](https://www.youtube.com/watch?v=NMyDbzfkKw8)
 
 ### FAQ & Bugs
 

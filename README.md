@@ -12,6 +12,7 @@ osu! beatmap to Friday Night Funkin'
 3- Write a name: name must exist in FNF FreePlay mode (this replaces existing song and patterns)
 
 4- Choose if you want osu! beatmap custom hitsounds (If map doesn't have any, don't check this)
+  - Set volume of hitsounds (Recommended: 40-45dB)
 
 5- Player alternation: 
   - `Use Color Combos for alt players`: alternates every combo changes

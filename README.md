@@ -13,7 +13,7 @@ This cool thing makes your osu beatmap into 100% playable map for Friday Night F
 
    - OR  destination of result files (.json & .ogg) and check `Drop all in this folder`
 
-3- Write a name: name must exist in FNF FreePlay mode (this replaces existing song and patterns)
+3- Write a name: name must exist in FNF FreePlay mode: `bopeebo`, `spookeez`, `pico`, etc...
 
 4- Choose if you want osu! beatmap custom hitsounds (If map doesn't have any, don't check this)
   - Set volume of hitsounds (Recommended: 80-95%)

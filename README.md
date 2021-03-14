@@ -3,13 +3,15 @@ osu! beatmap to Friday Night Funkin'
 
 This cool thing makes your osu beatmap into 100% playable map for Friday Night Funkin' FNF
 
-![](https://i.ibb.co/8YGnXgN/explorer-h5b-Y6-Xo-Hj-Q.png)
+![](https://images.gamebanana.com/img/ss/tools/604e3aef8f215.jpg)
 
 ## How to
 
 1- Select .osu beatmap located in osu!\Songs
 
-2- Select FNF folder
+2- Select FNF folder 
+
+   - OR  destination of result files (.json & .ogg) and check `Drop all in this folder`
 
 3- Write a name: name must exist in FNF FreePlay mode (this replaces existing song and patterns)
 

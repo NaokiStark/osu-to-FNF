@@ -37,3 +37,6 @@ this video shows how to do [thissss video here click here please](https://www.yo
 
 - **Beatmap doesn't convert**: don't use custom HitSounds, or beatmap is broken or something else
 - **FNF crashes**: try to tweak values
+
+## Build instructions
+https://github.com/NaokiStark/osu-to-FNF/wiki
